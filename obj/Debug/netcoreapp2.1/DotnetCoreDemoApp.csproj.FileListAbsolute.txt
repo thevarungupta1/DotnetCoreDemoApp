@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\DotnetCoreDemoApp\DotnetCoreDemoApp\bin\Debug\netcoreapp2.1\DotnetCoreDemoApp.deps.json
+C:\Users\admin\source\repos\DotnetCoreDemoApp\DotnetCoreDemoApp\bin\Debug\netcoreapp2.1\DotnetCoreDemoApp.runtimeconfig.json
+C:\Users\admin\source\repos\DotnetCoreDemoApp\DotnetCoreDemoApp\bin\Debug\netcoreapp2.1\DotnetCoreDemoApp.runtimeconfig.dev.json
+C:\Users\admin\source\repos\DotnetCoreDemoApp\DotnetCoreDemoApp\bin\Debug\netcoreapp2.1\DotnetCoreDemoApp.dll
+C:\Users\admin\source\repos\DotnetCoreDemoApp\DotnetCoreDemoApp\obj\Debug\netcoreapp2.1\DotnetCoreDemoApp.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\DotnetCoreDemoApp\DotnetCoreDemoApp\obj\Debug\netcoreapp2.1\DotnetCoreDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\DotnetCoreDemoApp\DotnetCoreDemoApp\obj\Debug\netcoreapp2.1\DotnetCoreDemoApp.RazorAssemblyInfo.cache
+C:\Users\admin\source\repos\DotnetCoreDemoApp\DotnetCoreDemoApp\obj\Debug\netcoreapp2.1\DotnetCoreDemoApp.RazorAssemblyInfo.cs
+C:\Users\admin\source\repos\DotnetCoreDemoApp\DotnetCoreDemoApp\obj\Debug\netcoreapp2.1\DotnetCoreDemoApp.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\DotnetCoreDemoApp\DotnetCoreDemoApp\obj\Debug\netcoreapp2.1\DotnetCoreDemoApp.AssemblyInfo.cs
+C:\Users\admin\source\repos\DotnetCoreDemoApp\DotnetCoreDemoApp\obj\Debug\netcoreapp2.1\DotnetCoreDemoApp.RazorTargetAssemblyInfo.cache
+C:\Users\admin\source\repos\DotnetCoreDemoApp\DotnetCoreDemoApp\bin\Debug\netcoreapp2.1\DotnetCoreDemoApp.pdb
+C:\Users\admin\source\repos\DotnetCoreDemoApp\DotnetCoreDemoApp\obj\Debug\netcoreapp2.1\DotnetCoreDemoApp.dll
+C:\Users\admin\source\repos\DotnetCoreDemoApp\DotnetCoreDemoApp\obj\Debug\netcoreapp2.1\DotnetCoreDemoApp.pdb
